@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# ![Mutant Soldiers by The Endless Expanse](https://user-images.githubusercontent.com/100062048/155755496-24c63313-30f9-41df-9895-cee074c6cdf6.png)
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
